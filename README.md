@@ -25,3 +25,6 @@ An image of a completed database model outlining your database design.
 A script to recreate your fully functioning database populated with sample data.
 
 A collection of SQL queries/scripts that join tables to demonstrate the validity of the database design. 
+
+
+https://www.coursera.org/learn/showcase-manage-data-online-grocer-mysql-workbench/supplement/RR6m9/getting-started
