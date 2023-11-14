@@ -4,17 +4,23 @@ Estimated Time
 
 It takes approximately 8-10 hours to complete this project
 
+
+
 Skills You'll Showcase
 
-Use both the visual interface and SQL development features of MySQL Workbench.
+Take the raw data and convert it into an insightful table.
+
+Use both the visual interface and SQL development features of PostgreSQL Workbench.
 
 Analyze a dataset and design a database to store/organize its data in one or more normalized relational tables.
 
-Generate an EER (Extended Entity-Relationship) Diagram using MySQL Workbench Modeling tool.
+Generate an EER (Extended Entity-Relationship) Diagram using PostgreSQL Workbench Modeling tool.
 
-Create and load a multi-table database from an EER Diagram using MySQL Workbench.
+Create and load a multi-table database from an EER Diagram using PostgreSQL Workbench.
 
 Develop queries that access data from related database to prove the database design is viable.
+
+
 
 What You'll Create
 
